@@ -6,4 +6,4 @@
 * Publique ou visualize publicações no feed, preenchendo os dados requeridos pelo formulário (Titulo e descirção) e clicando em _Publicar_
 
 ## Objetivo da aplicação <h2>
-## Organizar o fluxo de comunicação entre funcionários de diferentes setores dentro de uma empresa através da integração de publicações em um mesmo lugar (feed)
+## Organizar o fluxo de comunicação entre funcionários de diferentes setores dentro de uma empresa através da integração de publicações em um mesmo lugar (feed) <p>
